@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there :wave:
 
-<!--
-**oberprah/oberprah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Good at finding out what clients actually want to solve.  
+Even better at deleting the code that solved the wrong thing.
 
-Here are some ideas to get you started:
+Experimenting a lot with AI.  
+Nowadays I set the direction and guardrails and push the rest to my agents.  
+They don't complain. Yet.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*No work on [powder days](https://www.youtube.com/shorts/qPBhFXHXPUo)!* ⛷️❄️
+
+---
+
+Senior Consultant @ [TNG Technology Consulting](https://www.tngtech.com).
